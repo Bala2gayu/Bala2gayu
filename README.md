@@ -1,0 +1,8 @@
+- 👋 Hi, I’m BalaMeenakshi
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on beginning level project 
+- 📫 Reach me through email (b1802m@gmail.com)
+- 😄 Pronouns: She
+- ✨ Interests-photography, translations,coding..
+- <!---Bala2gayu/Bala2gayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
